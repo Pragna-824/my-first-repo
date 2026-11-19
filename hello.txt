@@ -2,3 +2,4 @@
 "Learning git is fun" 
 "Pushed to GIthub" 
 "Pulled from clone" 
+"Fetch test" 
